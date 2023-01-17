@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Snake animation](https://github.com/Nitheshmanimaran/Nitheshmanimaran/blob/output/github-contribution-grid-snake.svg)
-
-![](https://komarev.com/ghpvc/?username=Nitheshmanimaran&color=green)
